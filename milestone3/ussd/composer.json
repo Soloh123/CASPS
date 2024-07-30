@@ -1,0 +1,6 @@
+{
+    "require": {
+        "africastalking/africastalking": "^2.4",
+        "knox/africastalking": "^1.4"
+    }
+}
